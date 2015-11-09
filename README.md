@@ -27,10 +27,10 @@ Plugins provides a `navigator.crashlytics` object with following methods :
 - simulateCrash(): Simulates a crash
 
 
-### Supported platforms
+### Supported platforms and current versions
 
 - Android
-- iOS
+- iOS (Fabric version 1.5.5. Crashlytics version 3.4.0)
 
 ### AngularJS integration
 
@@ -52,4 +52,3 @@ Use the following snippet to integrate the plugin in your AngularJS app graceful
             };
         }]);
     }]);
-
