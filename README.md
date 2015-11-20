@@ -30,7 +30,7 @@ Plugins provides a `navigator.crashlytics` object with following methods :
 ### Supported platforms and current versions
 
 - Android
-- iOS (Fabric version 1.5.5. Crashlytics version 3.4.0)
+- iOS (Fabric version 1.5.5. Crashlytics version 3.4.1)
 
 ### AngularJS integration
 
