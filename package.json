@@ -1,0 +1,31 @@
+{
+  "name": "cordova-fabric-crashlytics-plugin",
+  "version": "0.0.4",
+  "description": "Crashlytics lugin for cordova based applications",
+  "cordova": {
+    "id": "cordova-fabric-crashlytics-plugin",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaynz/cordova-fabric-crashlytics-plugin.git"
+  },
+  "keywords": [
+    "cordova",
+    "crashlytics"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "Volkan Gümüs",
+  "bugs": {
+    "url": "https://github.com/kaynz/cordova-fabric-crashlytics-plugin/issues"
+  },
+  "homepage": "https://github.com/kaynz/cordova-fabric-crashlytics-plugin#readme"
+}
